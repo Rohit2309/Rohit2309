@@ -8,7 +8,7 @@ pipeline {
     
      steps{
       
-       echo 'building'
+       echo 'yoyo'
        
      }
    }
