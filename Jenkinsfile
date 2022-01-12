@@ -8,7 +8,7 @@ pipeline {
     
      steps{
       
-       apt-get update
+       echo 'building'
        
      }
    }
