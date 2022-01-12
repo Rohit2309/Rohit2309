@@ -8,7 +8,7 @@ pipeline {
     
      steps{
       
-       echo 'yoyo'
+       sh 'npm install'
        
      }
    }
