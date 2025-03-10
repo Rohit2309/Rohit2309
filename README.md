@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rohit2309
-- 👀 I’m interested in Containerization using Docker and Kubernetes.
-- 🌱 I’m currently learning configuration automation tool Ansible.
-- 💞️ I’m looking to collaborate on Infrastructure as Code using Python and AWS Lambda.
 - 📫 You can reach me at b.rohit2309@gmail.com
 
 <!---
